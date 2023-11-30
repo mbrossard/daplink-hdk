@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "greatlakesdev")(type "KiCad")(uri "/home/stephen/git/glasslabs/gl-ti-xds-isolated-hardware/xds-iso/greatlakesdev.kicad_sym")(options "")(descr ""))
+  (lib (name "daplink-hdk")(type "KiCad")(uri "${KIPRJMOD}/daplink-hdk.kicad_sym")(options "")(descr ""))
+)
