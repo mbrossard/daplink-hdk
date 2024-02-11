@@ -62,7 +62,7 @@ jobs:
     - name: Generate Gerbers & Drill
       run: |
         cd ${{env.PROJECT_NAME}}_${{env.REVISION}}_gerbers
-        ${{env.CLI_TOOL}} pcb export gerbers --board-plot-params ../${{env.PROJECT_NAME}}/${{env.PROJECT_NAME}}.kicad_pcb
+        ${{env.CLI_TOOL}} pcb export gerbers -l F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask,Edge.Cuts --no-protel-ext ../${{env.PROJECT_NAME}}/${{env.PROJECT_NAME}}.kicad_pcb
         ${{env.CLI_TOOL}} pcb export drill --excellon-zeros-format suppressleading --excellon-min-header ../${{env.PROJECT_NAME}}/${{env.PROJECT_NAME}}.kicad_pcb
 
     - name: Zip up gerbers
