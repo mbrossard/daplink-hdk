@@ -1,0 +1,45 @@
+default:
+  tags:
+    - ubuntu
+
+variables:
+  PROJ_NAME: "daplink-hdk"
+
+build_job:
+  stage: build
+  image: kicad/kicad:7.0
+  only:
+    - main
+  script:
+    - ./generate_release.sh $PROJ_NAME
+    - echo "TAG=$(cat revision.txt)" >> variables.env
+    - echo "ARTIFACTS_URL=$(echo $CI_JOB_URL/artifacts/download)" >> variables.env
+  artifacts:
+    paths:
+      - revision.txt
+      - output/
+    expire_in: never
+    reports:
+      dotenv: variables.env
+
+release_job:
+  stage: deploy
+  image: registry.gitlab.com/gitlab-org/release-cli:latest
+  needs:
+    - job: build_job
+      artifacts: true
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  script:
+    - echo "Running release_job for $TAG"
+  release:
+    name: 'Release $TAG'
+    tag_name: $TAG
+    description: '$PROJ_NAME release $TAG'
+    ref: '$CI_COMMIT_SHA'
+    assets:
+      links:
+        - name: '$PROJ_NAME-$TAG output'
+          url: '$ARTIFACTS_URL'

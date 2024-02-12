@@ -42,3 +42,6 @@ gerbers/
 *.kicad_prl
 
 *.lck
+
+output/
+*.txt

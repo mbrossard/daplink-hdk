@@ -7,7 +7,7 @@
   (title_block
     (title "daplink-hdk")
     (date "2023-10-27")
-    (rev "Rev A")
+    (rev "Rev B")
     (company "everyday dev")
     (comment 1 "License: CC-BY-SA")
   )
@@ -2854,23 +2854,23 @@
     (property "Manufacturer" "GCT" (at 33.02 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "A1" (uuid 99cff970-86ba-4b13-93c4-712310bfdb8e))
-    (pin "A12" (uuid 55c227cd-5932-46ef-bdc3-8c5a4a137788))
-    (pin "A4" (uuid 9cc72517-28d6-4bdf-a8ef-857b9cfa16da))
-    (pin "A5" (uuid 80ece56f-9ed9-4cd3-9b4e-ea46fa5e6329))
-    (pin "A6" (uuid c5a840b8-e4ff-4d06-a536-7f7774a7d250))
-    (pin "A7" (uuid 5eee6e10-5882-4af0-ae09-546202da9605))
-    (pin "A8" (uuid 8430cab7-f307-4029-acac-844f76a1d321))
-    (pin "A9" (uuid 0516c844-1c99-47cb-91ae-3da2bc5ec3d9))
-    (pin "B1" (uuid 99f79ba5-89e6-4ad6-b9bf-91f16a07b6e3))
-    (pin "B12" (uuid 2a63c923-e886-4999-9208-5bf3bda94cf9))
-    (pin "B4" (uuid e9372979-e57d-4698-bc6d-9d40eef3f97f))
-    (pin "B5" (uuid c0e49493-2838-4ae1-921e-fc269dd7e9c8))
-    (pin "B6" (uuid f56b9664-c516-429c-9f3b-857874f7de3f))
-    (pin "B7" (uuid d603885c-bd3e-4513-9e4a-df3b6a800e8d))
-    (pin "B8" (uuid 52b18b83-985a-4549-a46d-6366c010df9c))
-    (pin "B9" (uuid 31bed75b-1f69-4ea6-bfa7-b615c558e262))
-    (pin "S1" (uuid 18cdf276-54f4-4bdc-b0f2-d23a7d6026bf))
+    (pin "A1" (uuid 81a1079a-54aa-41eb-9952-71721c6f58eb))
+    (pin "A12" (uuid 548e33ab-1708-479e-a292-c520a5ea2b71))
+    (pin "A4" (uuid d4d188dc-8453-4cad-b853-4bb1c0ac3c96))
+    (pin "A5" (uuid 383183b4-13b9-4bfc-9dd2-dee101f1b0c2))
+    (pin "A6" (uuid 6d82bd6f-65a2-4d9e-951b-53e849ea0ef5))
+    (pin "A7" (uuid c2394f20-51b6-4aa6-8000-ebb81b066524))
+    (pin "A8" (uuid 8ad60a30-e462-477b-b101-c49bf6e9ac4b))
+    (pin "A9" (uuid a16cb1b3-ed7f-4ac7-b686-ac1c7d455f91))
+    (pin "B1" (uuid 24144d6a-9b38-4346-a51d-8c0b4518c921))
+    (pin "B12" (uuid dae84acd-0c0a-4be6-81ba-4991982f7841))
+    (pin "B4" (uuid af9d9a15-0961-4c2d-94c5-5f8431964979))
+    (pin "B5" (uuid 641f0da5-1373-427a-8546-a8e753664f97))
+    (pin "B6" (uuid 6696080a-41f3-4561-aec5-c507e3c6831b))
+    (pin "B7" (uuid 983fe5b8-7403-4ed1-aecf-8cb6704db679))
+    (pin "B8" (uuid 63c851c2-3d81-4a2a-82b6-2dec9dd1bc15))
+    (pin "B9" (uuid 808c2dec-8e3e-43da-8250-23f09a487512))
+    (pin "S1" (uuid b7b426e9-1573-4753-839b-2e796a7b45b8))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -2906,8 +2906,8 @@
     (property "Manufacturer" "Yageo" (at 215.9 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e4526385-e1ae-4c61-a0b4-47a433b3f66b))
-    (pin "2" (uuid f0b1e32e-a424-4089-8e0a-4ad276a7af54))
+    (pin "1" (uuid bec72e64-d28c-4cec-a0c5-f69e5728788e))
+    (pin "2" (uuid 8cac4506-f933-40cc-bfed-41a4e37e8e9b))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -2943,8 +2943,8 @@
     (property "Manufacturer" "Yageo" (at 254 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ff636c04-65f1-46fd-97ac-b1988792983b))
-    (pin "2" (uuid 8b36c432-94e4-451f-ac13-efbac9655a1f))
+    (pin "1" (uuid fd7214b3-e9b6-4539-883e-29173927c537))
+    (pin "2" (uuid 3a726c12-0714-4ec4-a170-22018b59f43b))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -2980,8 +2980,8 @@
     (property "Manufacturer" "Yageo" (at 190.5 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f1a4cc7-de61-4fd4-9eae-a20dcfc0b29f))
-    (pin "2" (uuid 4135291c-3c3f-437e-be24-6c82c8b5111a))
+    (pin "1" (uuid 141bff55-e71c-45bc-90bf-8a0a0e4c7970))
+    (pin "2" (uuid b1fc2039-400f-49f6-8286-49d4a26cdf8b))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3017,8 +3017,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7d81008f-3252-4990-8486-574aa521c616))
-    (pin "2" (uuid a75f5e36-0f48-41c3-9c92-24a6207e21fe))
+    (pin "1" (uuid d1d8eb17-5594-4e14-be0a-982bc4594d2e))
+    (pin "2" (uuid b2cfe3bc-e86f-4e22-be8a-91d61b6e57aa))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -3048,7 +3048,7 @@
     (property "Datasheet" "" (at 137.16 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1215cdd2-1ba8-4669-848b-236db0565802))
+    (pin "1" (uuid 52b2a33e-627a-4892-8e1f-9506cc8f4731))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3084,8 +3084,8 @@
     (property "Manufacturer" "Harvatek" (at 215.9 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid df63aec1-6bd6-4cde-9918-773b2264387a))
-    (pin "2" (uuid ca6bcf27-8813-4f88-a3f3-14ee0a031b9b))
+    (pin "1" (uuid d786b686-72e5-4515-a884-366f49cbe5a1))
+    (pin "2" (uuid d17bb63a-9e62-4cac-a56a-1c4af6f48dde))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -3115,7 +3115,7 @@
     (property "Datasheet" "" (at 254 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d40b271e-9b60-4001-bb59-5ba2cbe628bc))
+    (pin "1" (uuid 72aae08c-2646-4db2-89a5-9367e7321996))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3151,8 +3151,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d00a051f-6fdc-4e85-b596-edf08b592353))
-    (pin "2" (uuid ae387c25-caa8-4250-91ce-ba0ca371f0d2))
+    (pin "1" (uuid b93fa6f7-9b11-43f2-b397-bf601e0d17c5))
+    (pin "2" (uuid cba1a362-c00c-472b-9691-5fdf2a18c031))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -3188,8 +3188,8 @@
     (property "Manufacturer" "Panasonic" (at 254 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 48977c4a-a50a-466e-bab4-0a68ad3e354f))
-    (pin "2" (uuid 3e8b5d94-2ffe-4acc-831b-84d1ba6f66b7))
+    (pin "1" (uuid f746fa0e-bf80-422e-94e8-96ef8bbbf573))
+    (pin "2" (uuid e18ff2a2-751c-4525-a823-ecc90f4940ff))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -3219,7 +3219,7 @@
     (property "Datasheet" "" (at 119.38 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3f6152ea-5cc8-47d9-b238-063d08e7e1dd))
+    (pin "1" (uuid 2577ca74-f308-4101-bf5a-f70c63cf7798))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3255,8 +3255,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 96a915ce-b95f-4fe0-b193-0643b4c4ffb6))
-    (pin "2" (uuid 2df66bd7-7d4e-40ba-a626-6ad4627f0d23))
+    (pin "1" (uuid 5c61a011-e663-4a3c-8352-edc98e1a9184))
+    (pin "2" (uuid fbc14617-cdc5-4cd2-ae50-7423a546825f))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -3292,8 +3292,8 @@
     (property "Manufacturer" "Yageo" (at 71.12 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 087c8e44-4fc2-47e7-bd20-a0f845dad761))
-    (pin "2" (uuid c7e4bd53-e726-479b-b8ee-497f04f91439))
+    (pin "1" (uuid f1b44c7d-55ba-4264-b073-c899e923ca29))
+    (pin "2" (uuid 6191214e-ee9a-46df-915f-138672a952a1))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -3329,8 +3329,8 @@
     (property "Manufacturer" "Yageo" (at 53.34 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a2cd3ab2-c44a-454d-bb5a-0fc9d152f9a8))
-    (pin "2" (uuid 12aff227-f2ab-48e6-9512-4a94d922eb73))
+    (pin "1" (uuid 0e71bfd5-5c38-46df-8517-c9ab4833faba))
+    (pin "2" (uuid 0a1589c5-e393-466b-8d36-88a99803c28c))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -3366,8 +3366,8 @@
     (property "Manufacturer" "Harvatek" (at 228.6 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a729842b-8681-4976-9994-56b0adfec928))
-    (pin "2" (uuid 50b87c7d-550f-4fe8-9819-67f5396b76de))
+    (pin "1" (uuid 8a05b8a9-07c0-4b80-9958-bc7c81e16271))
+    (pin "2" (uuid 374f02a0-4cca-4544-b4c5-f489a158051e))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -3397,7 +3397,7 @@
     (property "Datasheet" "" (at 106.68 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6d833a37-4c0f-4b06-86f8-b6042645ad5d))
+    (pin "1" (uuid c01b7733-609f-4bea-b7f2-dd920e12a080))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3433,8 +3433,8 @@
     (property "Manufacturer" "Yageo" (at 60.96 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b14cb163-dac5-43d0-b3b0-088df931d1cf))
-    (pin "2" (uuid 128d1862-c36b-415f-a7e5-10c0de8095fc))
+    (pin "1" (uuid bc60bf0a-1a08-4c7e-b3c0-ce04f36612b9))
+    (pin "2" (uuid a3dc29c9-3863-4654-8fe3-d6330d150901))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3464,7 +3464,7 @@
     (property "Datasheet" "" (at 30.48 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fb03e923-6a90-4c1e-917c-d7a16c4c8973))
+    (pin "1" (uuid 761af3bd-1138-4d07-af18-c0ef5aa05b78))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3494,7 +3494,7 @@
     (property "Datasheet" "" (at 30.48 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 21d288a9-919c-4037-bd52-db074f5b2f27))
+    (pin "1" (uuid b29a3fa5-e423-4e10-a756-d01fce37b75f))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3524,7 +3524,7 @@
     (property "Datasheet" "" (at 25.4 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 058594d7-71ac-4f55-ba48-ddfefaf1f8c8))
+    (pin "1" (uuid 85f276e0-bd14-4a14-bf28-67d9537310c8))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -3560,8 +3560,8 @@
     (property "Manufacturer" "Adam Tech" (at 215.9 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 31c20c10-3a6c-484b-832f-8aa39b92d0c7))
-    (pin "2" (uuid 4a3083c3-517e-4827-8819-6fc7e5587153))
+    (pin "1" (uuid e23d8c45-d682-4a7d-b10a-91d0ec61eb55))
+    (pin "2" (uuid 2defa08f-7bbc-4e68-8883-7bb029598119))
     (instances
       (project "daplink-hdk"
         (path "/bd7ed9f8-b5b4-423c-a38d-d164cc860cc9"
@@ -3592,8 +3592,8 @@
     (property "Manufacturer" "Yageo" (at 144.78 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f6febab0-37f8-4e0c-bdc0-7a6308e2430c))
-    (pin "2" (uuid f0813f58-c153-4d85-8475-fef9a0fc0c40))
+    (pin "1" (uuid 29b023da-de8a-40d2-b6ed-768df2ed3069))
+    (pin "2" (uuid 4aeec8c7-1eca-4f3a-a4d8-105141f1d5a4))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3629,8 +3629,8 @@
     (property "Manufacturer" "Harvatek" (at 254 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 69266087-6d68-4112-93b3-8be73a5cccec))
-    (pin "2" (uuid a0f9cff9-c391-4c31-9acd-3660beeea624))
+    (pin "1" (uuid f70286a4-a1d5-4861-b400-5134dd13134f))
+    (pin "2" (uuid 373ab1d2-d1d3-424c-9644-2aa9abb63711))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -3660,7 +3660,7 @@
     (property "Datasheet" "" (at 99.06 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a6ce580d-21eb-4c59-ab6a-43aa12ded934))
+    (pin "1" (uuid 78c60a88-2ede-4219-8b7c-214c3c046c09))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3696,8 +3696,8 @@
     (property "Manufacturer" "Yageo" (at 254 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cc8e1128-baa1-43d7-96eb-1e4ecb1509a3))
-    (pin "2" (uuid 1732c2da-ef09-4f04-9c8a-c7db3ee22084))
+    (pin "1" (uuid 803cf624-0bb4-4006-b1cc-0307d15d3ad1))
+    (pin "2" (uuid 0792b14e-50ef-4dc1-a35f-b10eece12ebb))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3733,8 +3733,8 @@
     (property "Manufacturer" "Yageo" (at 40.64 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7168e48b-b27a-428b-87a6-7ef2c5acce1e))
-    (pin "2" (uuid 1cef91cb-b774-4255-8798-0cb00a1aa652))
+    (pin "1" (uuid fbcebea9-2531-4f7d-a526-1a919c5b0f99))
+    (pin "2" (uuid 94a0b0ff-1aff-4685-bef4-2b40b41068be))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3770,8 +3770,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 35eed2ce-75c7-47a7-afaf-1677d5c167ba))
-    (pin "2" (uuid b997d66e-05f9-465c-aacc-9e200e990fd9))
+    (pin "1" (uuid 65fbe68d-6bf6-4614-88f3-192c4c5a2580))
+    (pin "2" (uuid 99edae14-53f0-44a6-a36c-3eb6105a90b9))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -3807,16 +3807,16 @@
     (property "Manufacturer" "Samtec" (at 40.64 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 30c6fd35-bd65-4cc6-8a18-1645fc947e50))
-    (pin "10" (uuid d16de51c-fb18-47d2-927a-57bd46debf46))
-    (pin "2" (uuid e96285d4-9a02-472e-bbd6-7e993c2e2394))
-    (pin "3" (uuid 3d5d0d23-2ed3-4c36-a286-f3633c78db09))
-    (pin "4" (uuid 80e2e90c-68be-454b-9856-14a96099d3a4))
-    (pin "5" (uuid cb7641ea-9576-4a2c-8777-5872c1460692))
-    (pin "6" (uuid 1c010b8e-423b-471d-9cee-fcbf2edcfe5e))
-    (pin "7" (uuid 3e464ba7-99a0-44e1-af57-ee787dcd9add))
-    (pin "8" (uuid aeb5488f-b56a-4694-a7e8-ddfa77076d48))
-    (pin "9" (uuid 431c2d5c-6349-4f6f-8027-43f546873a57))
+    (pin "1" (uuid db614102-5029-41c2-8e4e-c9453b2f56d9))
+    (pin "10" (uuid d668ca75-abe1-400c-8ffc-945d6b83ed43))
+    (pin "2" (uuid 163e7e18-56ce-449d-a165-56064177c39b))
+    (pin "3" (uuid 4a00420c-52af-45f2-9735-502436a62276))
+    (pin "4" (uuid 2bf4bd7e-ccd7-4de4-8740-1e02615f2989))
+    (pin "5" (uuid b8dc3724-20d3-485e-ae58-6473c7fd1b5b))
+    (pin "6" (uuid 7597d410-0f67-4163-bad4-cc23f6801b8d))
+    (pin "7" (uuid 49d0036b-87c1-4695-8019-37c1858ab78f))
+    (pin "8" (uuid 60c2d6d3-08e6-48b8-910c-47b20338fc42))
+    (pin "9" (uuid c58545e2-27ef-4bfb-85f3-f6230cd1925d))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3852,8 +3852,8 @@
     (property "Manufacturer" "Yageo" (at 203.2 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1f475784-eced-4a12-8e11-e0fe63d1d1ef))
-    (pin "2" (uuid 420cf5ed-2d30-4aac-9390-5b42925ec0fe))
+    (pin "1" (uuid cce4c738-d638-438f-86da-4736f290cd80))
+    (pin "2" (uuid 11b0d117-ff49-479b-997d-42641c255579))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3889,9 +3889,9 @@
     (property "Manufacturer" "Sullins Connector Solutions" (at 129.54 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 77d1ff6c-30a4-4802-ad2a-85f62d5418aa))
-    (pin "2" (uuid b99307fe-0d57-4959-906f-f0f61af84def))
-    (pin "3" (uuid 9755309e-3598-45b8-896d-cbda76f8b3a2))
+    (pin "1" (uuid 484b710e-db9c-48ca-b0ad-9f5e8f19a1e2))
+    (pin "2" (uuid 728b477d-d902-470c-91da-e7de3af18e72))
+    (pin "3" (uuid eddea18a-ed82-4c16-a08c-1499284d1ea2))
     (instances
       (project "daplink-hdk"
         (path "/bd7ed9f8-b5b4-423c-a38d-d164cc860cc9"
@@ -3916,7 +3916,7 @@
     (property "Datasheet" "" (at 152.4 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8ad1daed-68bf-4ec6-a8fe-40b848509ceb))
+    (pin "1" (uuid 23d680b7-029e-488b-8b1a-de42e80028cc))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -3952,9 +3952,9 @@
     (property "Manufacturer" "Diodes" (at 53.34 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 92e51d9e-f01d-43ff-a9ca-d3e00d6d4622))
-    (pin "2" (uuid c52a523b-0e20-4b51-a6e3-c6a1bbceddcb))
-    (pin "3" (uuid f0f2dad6-2cd8-4c23-bc3a-42f6a02f4f21))
+    (pin "1" (uuid 1a60dffa-d878-411d-b5b6-d21d1b3a3835))
+    (pin "2" (uuid 77004c43-4d38-4222-acb6-544359324881))
+    (pin "3" (uuid 562a7727-e1ab-46de-a773-4ae7cbc9461d))
     (instances
       (project "daplink-hdk"
         (path "/bd7ed9f8-b5b4-423c-a38d-d164cc860cc9"
@@ -3985,8 +3985,8 @@
     (property "Manufacturer" "Yageo" (at 149.86 43.18 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 965768ad-d290-4d63-97f0-111d3dbc4d2a))
-    (pin "2" (uuid 203eb5ca-2ad5-409a-abb3-d0e4a4f6d934))
+    (pin "1" (uuid c59b1e90-c506-44d1-b707-6ee234a83782))
+    (pin "2" (uuid dcc24c60-2163-4601-8949-9573b6ae4976))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4022,8 +4022,8 @@
     (property "Manufacturer" "Yageo" (at 53.34 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 365baaa2-9943-485b-b08e-1235f33f2642))
-    (pin "2" (uuid 5fce2b58-27d1-4034-b8ef-39f09aabe246))
+    (pin "1" (uuid 638ab23e-6e8d-4890-bd4b-20a76724979e))
+    (pin "2" (uuid c2ab1e29-5445-4297-bfbd-e5f204f8f28e))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -4059,8 +4059,8 @@
     (property "Manufacturer" "Panasonic" (at 228.6 124.46 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 05a3b7c2-74cb-4803-addd-65c322e0d600))
-    (pin "2" (uuid d7d39f02-6d79-42ee-afb4-9be42d1fd5ad))
+    (pin "1" (uuid 56da2acc-f8fe-4918-b5c0-1bb470d1c8ea))
+    (pin "2" (uuid c40e160a-4a98-47ab-9651-890ac1893adb))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -4096,8 +4096,8 @@
     (property "Manufacturer" "Yageo" (at 228.6 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cca049d8-7fd1-409b-a809-6fb1afb5715b))
-    (pin "2" (uuid 95b3e6cf-1ff1-494c-82f8-d5e74f1584e3))
+    (pin "1" (uuid 4b249525-c59c-4404-b2e5-309b32c744d8))
+    (pin "2" (uuid a13eb1a9-6e86-4881-8cfc-8e356ad3a653))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4127,7 +4127,7 @@
     (property "Datasheet" "" (at 254 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b24697b-17b0-4078-a319-de94bf8fb2bd))
+    (pin "1" (uuid b3e33605-1cf3-4070-a1a8-28c5597a6409))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4157,7 +4157,7 @@
     (property "Datasheet" "" (at 134.62 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1e8ef477-e4f4-446f-99c9-436deb3538fe))
+    (pin "1" (uuid d2177ccd-04fa-402c-a2a6-19058f6694a7))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4193,8 +4193,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b6b18a1d-f191-4fd1-b01e-7b5e6d826cc3))
-    (pin "2" (uuid bc870b35-c2fb-41f1-aaeb-0891b9cd3b5a))
+    (pin "1" (uuid b53523a5-0f75-4cd9-bc76-190da75e013e))
+    (pin "2" (uuid 4f78c71a-5094-4b1c-aa64-3a913e3448e2))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -4230,8 +4230,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8055ee4d-3a1e-4982-8200-20c31ab366ef))
-    (pin "2" (uuid 451d4678-9346-4f05-9ab6-7605ec5e9323))
+    (pin "1" (uuid e646e07e-8a6f-404b-9a74-2a742cb86836))
+    (pin "2" (uuid 3390da2a-dc38-473e-92fc-a564ed8eeabb))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -4267,8 +4267,8 @@
     (property "Manufacturer" "Yageo" (at 228.6 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 730c07fc-cf30-42bd-80a3-7c7e5e979079))
-    (pin "2" (uuid c0e57770-2814-4f56-b57f-ddbb949fba1f))
+    (pin "1" (uuid 7157ba9c-462c-433d-817f-a0b37df2c907))
+    (pin "2" (uuid 03049d55-acd6-4b86-987a-039d2e480dd1))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4304,8 +4304,8 @@
     (property "Manufacturer" "Adam Tech" (at 30.48 132.08 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid efc5c030-d64d-489c-9637-8a21f0dd6ac4))
-    (pin "2" (uuid b399162a-bebd-4f1a-87ad-95b7329fdbc3))
+    (pin "1" (uuid 33c6d734-6330-4f3c-b118-ecc6779ef7dd))
+    (pin "2" (uuid d101569a-0ec6-4066-88b1-6e66a34eb4b6))
     (instances
       (project "daplink-hdk"
         (path "/bd7ed9f8-b5b4-423c-a38d-d164cc860cc9"
@@ -4336,8 +4336,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 185.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bb627704-fdd2-4920-b258-08fef3b490f2))
-    (pin "2" (uuid 743631a1-89b8-46ed-afdd-cfea1d958cc7))
+    (pin "1" (uuid cf1f80c7-9908-44b3-9799-c28a9dfaa81e))
+    (pin "2" (uuid da98f26a-dc80-4dfd-83ac-113b06c1ac88))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -4367,7 +4367,7 @@
     (property "Datasheet" "" (at 30.48 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e960081c-a94a-4c71-b33e-60873deb83f6))
+    (pin "1" (uuid e6756194-dbf5-4612-bbe8-b6bc032128ea))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4403,8 +4403,8 @@
     (property "Manufacturer" "Yageo" (at 124.46 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3d4e9db5-a761-4c15-96c8-9296c41c8ba0))
-    (pin "2" (uuid 870cdb0d-b8f5-4c6f-bb09-37b0061eae7d))
+    (pin "1" (uuid f49db102-5616-4952-9511-833731d393b4))
+    (pin "2" (uuid b39ed0f7-e8b0-440e-a954-ed7d28f68424))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4440,8 +4440,8 @@
     (property "Manufacturer" "Harvatek" (at 203.2 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dba9d8a3-d8f7-49b1-a64a-7f15cee90804))
-    (pin "2" (uuid 3d56e810-0bc1-4634-b660-b2df140d181a))
+    (pin "1" (uuid 7d3cf311-0f7d-4df0-aa02-ce569d274658))
+    (pin "2" (uuid b5e82ebc-be41-49ba-ba42-a9184be0a7b9))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -4477,8 +4477,8 @@
     (property "Manufacturer" "Harvatek" (at 190.5 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6fc9abff-5819-42c5-8a2c-672f1d2386c8))
-    (pin "2" (uuid 8b154f09-caeb-400d-9eb1-ae52896be509))
+    (pin "1" (uuid bfd90744-51cc-4ad2-b9a7-1ee79fa4e704))
+    (pin "2" (uuid 9d789f4f-916b-4040-a427-cf2293d2a7bb))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -4514,8 +4514,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 583a65bd-2e1a-4cb9-93bf-9bc9edcd663c))
-    (pin "2" (uuid f1faed3b-f44b-4bba-9202-597a6c28917e))
+    (pin "1" (uuid 03579355-213d-42ca-9e9c-41179f4287fc))
+    (pin "2" (uuid c7aa4fc8-557c-4cc2-a4cd-b2c453d7960d))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -4551,16 +4551,16 @@
     (property "Manufacturer" "Samtec" (at 38.1 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85bb81ec-fd80-4f67-a941-ef63b9452997))
-    (pin "10" (uuid 03b5bef7-7e81-467b-8b99-bd67bdf036c4))
-    (pin "2" (uuid 6d1ab9a2-d7bf-47e8-b521-fb86df3a0148))
-    (pin "3" (uuid cf0bf76d-9b23-491b-a9c7-029f056e86bd))
-    (pin "4" (uuid fd74a093-5832-48bd-9ea3-5bec884ea1dd))
-    (pin "5" (uuid 4792aea8-e3b6-4def-83bb-7d74c2665c94))
-    (pin "6" (uuid 05d0318a-7c38-45ed-b4bc-ab97faaa2cf9))
-    (pin "7" (uuid fab827eb-2ea8-463f-87c9-2f970aa6d0ca))
-    (pin "8" (uuid 5d02ce77-d8e1-42d9-92bd-a872a2d699dc))
-    (pin "9" (uuid 7c87bf78-3da9-42e9-826b-4283cce5ff4c))
+    (pin "1" (uuid cc7d3a61-bcc0-407e-a13f-d960b14b73dd))
+    (pin "10" (uuid 0849be62-efc7-42a8-8147-276b06933576))
+    (pin "2" (uuid 92d9736c-d2cb-45cb-b3f0-3d796988bfee))
+    (pin "3" (uuid 8e4f7b5e-dbfd-4dbf-a63c-ed718074e820))
+    (pin "4" (uuid 7c7b3170-4680-44a0-8a27-fef62ee3fd7d))
+    (pin "5" (uuid 3913151f-984f-46a5-a46d-438f137256da))
+    (pin "6" (uuid 6767333b-2059-4c6d-ae1a-dd42496402b2))
+    (pin "7" (uuid 8906f844-e599-4a44-8d1c-4bf60d475fe1))
+    (pin "8" (uuid f414a3fa-d991-486b-ac26-f132e7c8d3e6))
+    (pin "9" (uuid 705eca8b-5aa4-4199-8582-8eeeb68d044b))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4596,18 +4596,18 @@
     (property "Manufacturer" "Sullins Connector Solutions" (at 147.32 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4185e4de-3492-4575-9298-d7727ba8a627))
-    (pin "10" (uuid 597e0974-f71c-4d21-ba00-0201d25ea6c3))
-    (pin "11" (uuid 72990f5d-7eeb-4236-b702-6f6902861243))
-    (pin "12" (uuid 9f118864-f73c-48cd-9204-0d54365c8d55))
-    (pin "2" (uuid c7910a8e-c783-4a49-b812-1649075fefd3))
-    (pin "3" (uuid 2e70bdf4-8f91-49fe-989d-cf89cf2e9152))
-    (pin "4" (uuid 09c41373-a17e-4d25-99ad-1f9209dad743))
-    (pin "5" (uuid 03db1edc-58fb-4c7f-a91e-ef748406d94c))
-    (pin "6" (uuid 27d40337-b2dc-4405-ab05-3795fda46bc9))
-    (pin "7" (uuid 70056e34-e2a0-4418-a4fa-5b82a85e8f23))
-    (pin "8" (uuid 63e2670a-9da5-4c19-bb1d-6dc98ed83be5))
-    (pin "9" (uuid ab4ce355-1bd5-4a75-94b4-14d1ac3e6590))
+    (pin "1" (uuid b9bb5b24-cf77-42ba-9007-c0629050c71d))
+    (pin "10" (uuid 6329204d-fcab-4052-8f79-e6f0cddccaa6))
+    (pin "11" (uuid 70aa6e2a-1c1d-45eb-b252-a5811a7e8c13))
+    (pin "12" (uuid e87d07f3-b724-4699-8122-b3a574dfe6e3))
+    (pin "2" (uuid 5160d1ee-2727-44ae-8a23-1bc488faab77))
+    (pin "3" (uuid ed2c4c94-bdd4-4243-a31e-8d89a32a1619))
+    (pin "4" (uuid 854675b0-7127-4043-b5c2-650ee361187f))
+    (pin "5" (uuid a91b00e8-ae98-4753-84cc-47b225893625))
+    (pin "6" (uuid aab7f8e9-5ea0-4644-876a-0a980f26773b))
+    (pin "7" (uuid 2eeecd83-fb3f-42da-ae27-4ab75922b723))
+    (pin "8" (uuid 40c6167c-9c4d-4be3-9a56-c48a44881e17))
+    (pin "9" (uuid 628d2c6b-ca53-4fae-b487-97cec3bfda75))
     (instances
       (project "daplink-hdk"
         (path "/bd7ed9f8-b5b4-423c-a38d-d164cc860cc9"
@@ -4638,11 +4638,11 @@
     (property "Manufacturer" "Diodes" (at 134.62 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 697a7aed-2b62-4908-9e3d-433b299e0808))
-    (pin "2" (uuid 4a8c18ef-b3ae-4454-8cef-7c45782213e1))
-    (pin "3" (uuid cbb92fb6-c2e5-46ee-8e36-17fb84f8db8d))
-    (pin "4" (uuid e646df57-ec61-4697-a676-2ba1d0448f89))
-    (pin "5" (uuid faba6c43-e96f-45c5-91aa-74bb44253985))
+    (pin "1" (uuid f41fafc3-d220-4d77-89c0-c3905b130eea))
+    (pin "2" (uuid 580b48dc-466e-4f62-a778-1b5021cb8d86))
+    (pin "3" (uuid 408e8f7d-3055-47b4-95f3-cf576d104bed))
+    (pin "4" (uuid 20dd14a2-b199-4307-ac9a-c6490aad73d1))
+    (pin "5" (uuid 35f4c92c-eb46-428f-8e98-2887d6ae5b43))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4678,8 +4678,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 190.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 71300d7f-ce8a-403f-804c-19e7f583b262))
-    (pin "2" (uuid dcc195cf-a7bf-415d-8ee1-7ee504dbc580))
+    (pin "1" (uuid 85bd2bbd-041c-4928-8ebf-effecb5b7325))
+    (pin "2" (uuid eb188324-f07e-4b28-a51c-aadcec9e7746))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -4715,8 +4715,8 @@
     (property "Manufacturer" "Yageo" (at 71.12 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 58949442-0a42-44d7-a2f6-f3f2b1e33d62))
-    (pin "2" (uuid 65c9d1cb-d8a7-4902-b4d2-0a9d0b4e1346))
+    (pin "1" (uuid 2fecfe15-8b94-40f7-a2a6-54c6ce07497c))
+    (pin "2" (uuid c8ba1fe3-7c31-4a68-ab46-f82df0704ee0))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -4752,8 +4752,8 @@
     (property "Manufacturer" "Harvatek" (at 241.3 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cbe3e5c9-80ce-4e0b-bb22-b2d67df17941))
-    (pin "2" (uuid a1ddf070-5aba-4dc3-870d-10e41d88abc9))
+    (pin "1" (uuid 8764fb71-4da9-4c55-8ea8-89a8bbd4fa5f))
+    (pin "2" (uuid 971ed9e0-5d4d-422a-83f9-b4ed772d6efb))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/92d8e149-b666-4362-a625-1b11bd0206bc"
@@ -4783,7 +4783,7 @@
     (property "Datasheet" "" (at 63.5 22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7aab4f6d-4675-47d7-aabf-2e66eeaecc50))
+    (pin "1" (uuid 581758b0-8def-49b3-883c-52d759dceda6))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4813,7 +4813,7 @@
     (property "Datasheet" "" (at 203.2 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9ad37a4d-4bb7-4e45-9bed-54846edd0691))
+    (pin "1" (uuid db7c6fc0-57ce-41d5-a24b-389ed3da5cc4))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4849,8 +4849,8 @@
     (property "Manufacturer" "Yageo" (at 119.38 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c3f6010-669d-48b2-aab5-24b0cb22a537))
-    (pin "2" (uuid dc6841bb-15eb-4417-bb97-fb3eed207efb))
+    (pin "1" (uuid 2f3cd170-7f1f-4cf5-9c31-3aa88bb50e90))
+    (pin "2" (uuid 364756a6-f330-4f29-a34e-7e3a7ab104ed))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4880,7 +4880,7 @@
     (property "Datasheet" "" (at 58.42 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3e7d216c-9e29-4978-90f8-67391f70f352))
+    (pin "1" (uuid cac06b95-7354-4b96-8a6b-c3f20bbc0169))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -4910,7 +4910,7 @@
     (property "Datasheet" "" (at 228.6 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6fd75aa5-e01c-4fdf-9225-dae953cef9ad))
+    (pin "1" (uuid e467cd9d-4d4b-48ed-b4a6-003dba7b95dc))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -4946,11 +4946,14 @@
     (property "Manufacturer" "Texas Instruments" (at 58.42 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93e68c46-5b4e-48d3-b091-c8a67e536e2d))
-    (pin "2" (uuid 1a1928a8-fc56-4737-8f8d-c5b78436e82a))
-    (pin "3" (uuid 10b24a3b-a523-4ae6-ba4e-cbc8f8fb2ad4))
-    (pin "4" (uuid 372370cd-a4d6-4a1b-b8f9-7c38c11e0bca))
-    (pin "5" (uuid ad9e8e9e-7da9-467b-abd0-f47f230800e5))
+    (property "MFP" "ESDS302DBVR" (at 58.42 48.26 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1db75ff7-d685-4d0c-9342-6bffb1df625e))
+    (pin "2" (uuid 9e3bcffd-2d8e-41c4-acf2-6d3d82ca6d95))
+    (pin "3" (uuid cef6fb7b-baf1-4a69-b2a3-e49a41d1e89a))
+    (pin "4" (uuid d4e432d3-2217-4cf2-bacd-f871ff7f8e25))
+    (pin "5" (uuid b8069d74-5008-4f8e-9db1-4bb02159e93d))
     (instances
       (project "daplink-hdk"
         (path "/bd7ed9f8-b5b4-423c-a38d-d164cc860cc9"
@@ -4981,8 +4984,8 @@
     (property "Manufacturer" "Yageo" (at 241.3 48.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 24da004d-c4b0-4c7c-b0db-aaf53fb17e79))
-    (pin "2" (uuid da1286c2-446f-41d9-8401-41758e89fd14))
+    (pin "1" (uuid 031fe031-9fcd-4339-85ad-61b41cb809d6))
+    (pin "2" (uuid a4cf914a-910a-4748-9c11-b18547a16abd))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -5018,8 +5021,8 @@
     (property "Manufacturer" "Yageo" (at 58.42 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0f6bf1c2-96e2-44f7-9154-6573ba4d3d94))
-    (pin "2" (uuid 5fc383ae-8ccc-4da3-af94-df289e19a5f7))
+    (pin "1" (uuid f9f0a283-1a6d-4316-b71a-7e8edc890c32))
+    (pin "2" (uuid cdba18a9-ee5b-4f2a-a2d9-f942250b5748))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/4faa0ad8-75a5-4438-b007-ee473de8d5b6"
@@ -5055,9 +5058,9 @@
     (property "MPN" "DMP3099L" (at 33.02 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 10c75ee9-1c6b-4b36-b581-e0a1f1c775df))
-    (pin "2" (uuid 476a950f-d6d0-4d3d-95a4-0a5fdf00e7fa))
-    (pin "3" (uuid 68843f10-f28d-43c3-b2d0-0009f78d221a))
+    (pin "1" (uuid 8671930e-3bb6-42ee-b05b-ff44ccb87e6a))
+    (pin "2" (uuid 2b8ad674-c49b-42aa-828a-ea574a559174))
+    (pin "3" (uuid 0f05a4b2-20ba-455d-a902-02eef9d2a0e3))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -5087,7 +5090,7 @@
     (property "Datasheet" "" (at 63.5 30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 09dc625e-11fe-485d-a25c-4a769e806218))
+    (pin "1" (uuid c2c5a0e1-e973-4151-8025-4edd9838c5b3))
     (instances
       (project "robin"
         (path "/a203047b-9728-4c42-91d9-e311054f0653/57eb10df-0e9f-42e7-a563-518aacc13c35"
@@ -5117,7 +5120,7 @@
     (property "Datasheet" "" (at 50.8 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 11e33df0-354b-4c71-b7cd-93f8897becb6))
+    (pin "1" (uuid 7578a426-d4c6-4605-9df9-647d1d2fe48e))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -5147,7 +5150,7 @@
     (property "Datasheet" "" (at 228.6 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 889fc2cf-df02-4de1-9c5f-821ea5313ecd))
+    (pin "1" (uuid 67444d8f-20b6-4376-a3f9-6e78a52a9243))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -5177,7 +5180,7 @@
     (property "Datasheet" "" (at 190.5 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 327602ce-5c58-431f-9710-65a8548bad6c))
+    (pin "1" (uuid 20136d34-0c33-408b-a993-f1ba0dba4c7d))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -5213,18 +5216,18 @@
     (property "Manufacturer" "Sullins Connector Solutions" (at 134.62 116.84 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0c1de833-f3ba-456b-82ad-314b7dd1e35f))
-    (pin "10" (uuid 1cdb4f71-4a95-400b-b8fb-4686ce1dc1b5))
-    (pin "11" (uuid a5466279-e71e-4cec-99de-22ec581455dd))
-    (pin "12" (uuid f8c87cf9-566d-4980-bc8c-6af6ee1cc53f))
-    (pin "2" (uuid ec1125a5-2c3f-4654-87ec-94564f12b526))
-    (pin "3" (uuid 4c75cf07-70bc-4cda-a06e-f8d259cd368b))
-    (pin "4" (uuid 40d74fa4-8e6d-42bc-a60a-b2929e06b097))
-    (pin "5" (uuid fb2ab485-f992-4948-960d-c4e1d6b6d697))
-    (pin "6" (uuid 0bb4748a-2543-43ec-a932-f031bf631417))
-    (pin "7" (uuid d7da265f-0e29-4526-916f-40d764f6b31a))
-    (pin "8" (uuid c0bc841f-c9b6-4a78-a688-f8fdcee96905))
-    (pin "9" (uuid c90a57f8-ef6a-4f2c-aaf6-125c4991acb4))
+    (pin "1" (uuid 4b8d0975-75bb-4bbc-af6e-4a6cb645f9ad))
+    (pin "10" (uuid fa164c5c-56e2-48ce-9e75-5b373010183f))
+    (pin "11" (uuid 641c7274-0d06-40a6-9af1-1ae6c38fb1bb))
+    (pin "12" (uuid ecb86399-685c-418a-a89d-ac8f6a5f4d78))
+    (pin "2" (uuid 518edd81-53d9-4513-a3a0-a541867bb069))
+    (pin "3" (uuid 60d83bcf-532d-4352-8d74-fd5f758a73dc))
+    (pin "4" (uuid 15ee9718-2498-4264-888d-bbc123d1ec5b))
+    (pin "5" (uuid 5b44030f-3fe1-4b42-9752-d6fd7c876306))
+    (pin "6" (uuid 9f357450-e1ac-49b5-aa4d-ce1a970c329d))
+    (pin "7" (uuid e8676187-cbf0-4194-ae4c-cd4d3183b5b8))
+    (pin "8" (uuid c75d074a-541d-4661-abd0-2cf546398bc4))
+    (pin "9" (uuid 57703933-f273-4f4b-8e8a-4538f275b45d))
     (instances
       (project "daplink-hdk"
         (path "/bd7ed9f8-b5b4-423c-a38d-d164cc860cc9"
@@ -5249,7 +5252,7 @@
     (property "Datasheet" "" (at 106.68 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c6c3450-7ca9-41b9-aff3-5a2dbe3a790b))
+    (pin "1" (uuid da2a65f9-a5fa-4137-88f9-40bfa4d0848d))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
@@ -5279,7 +5282,7 @@
     (property "Datasheet" "" (at 30.48 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9533290f-108b-4c2c-9bf9-aa719d26d2a5))
+    (pin "1" (uuid 72d47213-0f4a-4ed8-b091-38868c09e00d))
     (instances
       (project "usb-dev"
         (path "/19fad3a5-58c0-4e88-b26f-d8de0dd3afcd"
