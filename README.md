@@ -5,3 +5,6 @@
 
 ## Introduction
 This board is a hardware development kit created to make adding new HICs and features easier for the DAPLink firmware dev team.
+
+# Upstream
+You can find the upstream of this project here: [git.everydaydev.io](https://git.everydaydev.io/opensource/daplink-hdk)
